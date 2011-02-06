@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>TV9QU6HDB3.com.yourcompany.TestAVAudioPlayerMemoryLeak</string>
+	<key>get-task-allow</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>TV9QU6HDB3.com.yourcompany.TestAVAudioPlayerMemoryLeak</string>
+	</array>
+</dict>
+</plist>
